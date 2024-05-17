@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @jdillenburg
-- 👀 I’m interested in AI, Maker, 3D Printing, gardening, painting, electronics
+- 👀 I’m interested in AI, Maker, 3D Printing, intelligent transportation systems, gardening, painting, electronics
 - 📫 How to reach me ...
+  - dillenbu@uic.edu
+  - john@dillenburg.org
 
-<!---
-jdillenburg/jdillenburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Public Projects:
+  - (Garage-Pi)[https://github.com/jdillenburg/garage-pi]
+  - (Tree LED Controller)[https://github.com/jdillenburg/TreeLedController]
