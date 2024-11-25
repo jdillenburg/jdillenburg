@@ -5,5 +5,6 @@
   - john@dillenburg.org
 
 - Public Projects:
+  - [EspHome](https://github.com/jdillenburg/esphome)
   - [Garage-Pi](https://github.com/jdillenburg/garage-pi)
   - [Tree LED Controller](https://github.com/jdillenburg/TreeLedController)
